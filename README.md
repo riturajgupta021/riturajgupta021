@@ -8,7 +8,7 @@
 ## 🚀 What I'm Working On  
 - 🔄 **Design Pattern Projects**: Exploring **Singleton**, **Factory**, **Adapter**, **Observer**, and **Strategy** patterns with real-world implementations.  
 - 📚 **Virtual Classroom Project**: Leading a virtual learning platform initiative to enhance online education.  
-- 🌐 **Full-Stack Chat App**: Building a WhatsApp-like application for seamless communication.  
+- 🌐 **Full-Stack MERN App**: Building a CURD Application.  
 
 ## 🛠️ My Tech Stack  
 - **Languages**: JavaScript, Node.js  
