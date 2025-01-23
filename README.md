@@ -22,7 +22,7 @@
 - **Advanced English Communication**: Expanding my language proficiency for professional and personal growth.  
 
 ## 🏆 Projects I've Built  
-- **Muscle Building Calculator**: A tool for fitness enthusiasts.  
+- **Virtual Classroom Project**: Leading a virtual learning platform initiative to enhance online education.  
 - **CRUD API**: Developed with **Node.js**, **Express**, and **MongoDB** for backend functionality.  
 
 ## 🎮 Beyond Coding  
