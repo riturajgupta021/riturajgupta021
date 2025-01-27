@@ -80,6 +80,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajgupta021&show_icons=true&locale=en" alt="riturajgupta021" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajgupta021&" alt="riturajgupta021" /></p>
 
 
