@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rituraj Gupta</h1>
-<h3 align="center">Hi, I’m Rituraj Gupta, a backend developer passionate about building scalable RESTful APIs using Node.js, Express, and MongoDB.  currently working on a full-stack chat app and a calories calculator project. Always eager to learn and grow, I’m exploring advanced data structures, algorithms, and event-driven architecture. Let’s connect!</h3>
+<h3 align="center">Hi, I’m Rituraj Gupta, a backend developer passionate about building scalable RESTful APIs using Node.js, Express, and MongoDB. Always eager to learn and grow, I’m exploring advanced data structures, algorithms, and event-driven architecture. Let’s connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajgupta021&label=Profile%20views&color=0e75b6&style=flat" alt="riturajgupta021" /> </p>
 
