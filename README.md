@@ -13,21 +13,14 @@
 
 <h3 align="left">My Projects:</h3>
 
-1. **CRUD API with Node.js**  
-   - 📂 Repository: [GitHub Link](#)  
-   - 🔗 Live Demo: [Deployed Link](#)  
+1. **Virtual Classroom Platform**  
+   - 📂 Repository: [GitHub Link](https://github.com/riturajgupta021/Virtual_class_room)  
+   - 🔗 Live Demo: [Deployed Link](https://virtual-class-room.netlify.app/)  
 
-2. **Virtual Classroom Platform**  
-   - 📂 Repository: [GitHub Link](#)  
-   - 🔗 Live Demo: [Deployed Link](#)  
-
-3. **Full-Stack Admin Dashboard**  
-   - 📂 Repository: [GitHub Link](#)  
-   - 🔗 Live Demo: [Deployed Link](#)  
-
-4. **Chat Application (WhatsApp Replica)**  
-   - 📂 Repository: [GitHub Link](#)  
-   - 🔗 Live Demo: [Deployed Link](#)  
+2. **Full-Stack Admin Dashboard**  
+   - 📂 Repository: [GitHub Link](https://github.com/riturajgupta021/mern-backend)  
+   - 🔗 Live Demo: [Deployed Link](https://riturajgupta.netlify.app/)  
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
